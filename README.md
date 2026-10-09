@@ -17,3 +17,4 @@ Daily practice: [NeetCode submissions](https://github.com/aakashthapa0/neetcode-
 ## 📫 Find me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aakash-thapa-01/)
 - 🌐 [macpulse.tech](https://macpulse.tech)
+- 🌐 [Portfolio](https://aakashthapa0.github.io/portfolio/)
